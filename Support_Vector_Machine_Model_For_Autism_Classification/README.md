@@ -11,4 +11,5 @@ After cleaning the training data, I performed hyperparameter tuning using the gr
 
 In terms of accuracy, this model is a large improvement to the current scoring method of simply summing the result of each question and comparing that total to a benchmark. While this is a large improvement to the current scoring method, there are some ethical considerations we should make when reviewing this model. It is likely that this model inhereted some of the cultural biases of the medical community who did the original diagnostics to determine which people had ASD and which didn't.
 
-This folder contains a Jupyter Notebook file with the model, the original dataset and data description, as well as a white paper, and a presentation of my findings.
+This folder contains a Jupyter Notebook file with the model, the original dataset and data description, as well as a white paper, and a presentation of my findings.  
+Please note that I had my name changed in 2023 and thus the audio in the presentation uses my former name.
