@@ -1,6 +1,6 @@
 # A Machine Learning Approach to Cardiotocography Interpretation
 
-#### By Holly Figueroa and Karlie Schwartzwald
+#### By Holly Figueroa and KJ MoChroi
 #### March 2023
 
 
